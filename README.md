@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7F00FF&size=35&center=true&vCenter=true&width=1000&lines=....;.....+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://github.com/lnxdxtf">
+  <a href="https://github.com/teshijapa">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=teshijapa&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teshijapa&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
 
-
+    
 <div align="center" style="display: inline_block"><br>
   <a href="https://www.rust-lang.org/">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg">
