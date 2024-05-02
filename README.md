@@ -1,7 +1,5 @@
-Import Teshima
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7F00FF&size=35&center=true&vCenter=true&width=1000&lines=....;.....+:%29)](https://git.io/typing-svg)
 
-print("Olá pessoa, aqui está alguns de meus projetos realizadas ao longo de minha jornada").
 <div align="center">
   <a href="https://github.com/lnxdxtf">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=teshijapa&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
