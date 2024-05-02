@@ -46,7 +46,7 @@ print("Olá pessoa, aqui está alguns de meus projetos realizadas ao longo de mi
 ### Profile Views
 counting of visitors to this page in this section started from November 11, 2022
 
-  ![](https://count.getloli.com/get/@lnxdxtf.github.readme)
+  ![](https://count.getloli.com/get/@teshijapa.github.readme)
   </br>
    </p>
 </div>
